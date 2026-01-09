@@ -1,0 +1,73 @@
+.sign_in {
+    text-align: center;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: bold;
+    font-size: 40px;
+    height: 65px;
+    width: 300px;
+    background-color: rgb(62, 225, 41);
+    color: white;
+    border-radius: 4px;
+}
+
+.text {
+    color: rgb(62, 225, 41);
+    border-color: rgb(62, 225, 41);
+    border-style: solid;
+    border-radius: 3px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.input{
+    color: rgb(62, 225, 41);
+    margin-bottom: 5px;
+
+}
+
+.box{
+    background-color: antiquewhite;
+    border-color: bisque;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.forgot{
+    color: rgb(165, 42, 42);
+}
+
+.click:hover{
+    cursor: pointer;
+}
+
+.fb{
+    
+    border-color: rgb(62, 225, 41);
+    color: rgb(62, 225, 41);
+    border-style: solid;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+.fb:hover{
+    cursor: pointer;
+    
+}
+
+.face{
+    color: rgb(43, 168, 221);
+}
+.red{
+    color: red;
+}
+.ora{
+    color: orange;
+}
+.blue{
+    color: blue;
+}
